@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Compilación y caché de Angular
+dist/
+.angular/cache/
+.angular/config.json
+
+# IDEs/Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos temporales
+*.swp
+*.tmp
+*.temp
+*.bak
+
+# Archivos del sistema Git
+.git/
+.gitignore
+
+# Base de datos
+*.sql
+*.sqlite
+
+# Configuración personal
+*.iml
